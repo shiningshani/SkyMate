@@ -11,7 +11,7 @@ I have used [OpenWeather](https://openweathermap.org/api) api to fetch real time
 html, css, bootstrap and vannila Js
 
 ## Demo
-You can see live demo [here](https://skymate.now.sh/).
+You can see live demo [here](https://shiningshani.github.io/Weather-App/).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
